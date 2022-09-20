@@ -1,6 +1,6 @@
 import re
 
-txt = "HardpassL"
+txt = "HardpassL2@@"
 
 #Check if "ain" is present at the beginning of a WORD:
 
